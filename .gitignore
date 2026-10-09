@@ -1,0 +1,9 @@
+﻿# KiCad local history / backups
+.history/
+**/.history/
+*.bak
+*-backups/
+_autosave-*
+*.kicad_pcb-bak
+*.sch-bak
+fp-info-cache
