@@ -7,3 +7,7 @@ _autosave-*
 *.kicad_pcb-bak
 *.sch-bak
 fp-info-cache
+
+# KiCad lock files
+~*.lck
+*.lck
