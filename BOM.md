@@ -22,7 +22,7 @@
 | [Li-Po Battery](https://www.digikey.com/en/products/detail/pkcell/LP503035-W-PLUG/26906441?gclsrc=aw.ds&gad_source=1&gad_campaignid=23033451739&gclid=CjwKCAjw56zWBhB0EiwAdPOQOZenrkhbt0bE1SlGZxBGAb4lG4wGcrsO8SRFO7WNs4R7fEYOzQB1sRoCiC4QAvD_BwE) | Portability | 1 | $7.95 | $7.95 | [DigiKey](https://www.digikey.com/en/products/detail/pkcell/LP503035-W-PLUG/26906441?gclsrc=aw.ds&gad_source=1&gad_campaignid=23033451739&gclid=CjwKCAjw56zWBhB0EiwAdPOQOZenrkhbt0bE1SlGZxBGAb4lG4wGcrsO8SRFO7WNs4R7fEYOzQB1sRoCiC4QAvD_BwE) |
 | [KY-023 joystick](https://www.alibaba.com/pla/Dual-Axis-XY-Joystick-Module-with_1601578614078.html?mark=google_shopping&biz=pla&searchText=ics&product_id=1601578614078&pcy=us_en&src=sem_ggl&field=UG&from=sem_ggl&cmpgn=22635874527&adgrp=177485315221&fditm=&tgt=pla-2412849993011&locintrst=&locphyscl=9031936&mtchtyp=&ntwrk=g&device=c&dvcmdl=&creative=756472634791&plcmnt=&plcmntcat=&aceid=&position=&gad_source=1&gad_campaignid=22635874527&gclid=CjwKCAjw56zWBhB0EiwAdPOQOfHENi5n-CvkF6xJuOP1gqmImJCNY1Ek67EkMB3jaiDdUjWNDoI7phoCuQkQAvD_BwE) | Additional Input and functionality | 1 | $0.32 | $0.32 | [Alibaba](https://www.alibaba.com/pla/Dual-Axis-XY-Joystick-Module-with_1601578614078.html?mark=google_shopping&biz=pla&searchText=ics&product_id=1601578614078&pcy=us_en&src=sem_ggl&field=UG&from=sem_ggl&cmpgn=22635874527&adgrp=177485315221&fditm=&tgt=pla-2412849993011&locintrst=&locphyscl=9031936&mtchtyp=&ntwrk=g&device=c&dvcmdl=&creative=756472634791&plcmnt=&plcmntcat=&aceid=&position=&gad_source=1&gad_campaignid=22635874527&gclid=CjwKCAjw56zWBhB0EiwAdPOQOfHENi5n-CvkF6xJuOP1gqmImJCNY1Ek67EkMB3jaiDdUjWNDoI7phoCuQkQAvD_BwE) |
 | **Parts subtotal** | — | — | — | **$22.17** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$22.17** | — |
+| **Tax & shipping** | — | — | — | **$1.00** | — |
+| **Total** | — | — | — | **$23.17** | — |
 
-$7.83 left of the tier's funding.
+$6.83 left of the tier's funding.
